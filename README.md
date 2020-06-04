@@ -1,6 +1,6 @@
 # Interview Guide
 
-This repo is my guide for interview preparation. Feel free to use it as you see fit. It consists of common data structure and algorithm implementations and notes, complexity analyses, and interview questions I have come across. My implementations are done in Python for uniformity and convenience. However, the solutions that I provided to the interview questions are not necessarily done in Python. 
+This repo is my guide for interview preparation. Feel free to use it as you see fit. It consists of common data structure and algorithm implementations and notes, complexity analyses, and interview questions I have come across. My implementations are done in Python for uniformity and convenience. However, the solutions that I provided to the interview questions are not necessarily done in Python.
 
 <br />
 
